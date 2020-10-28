@@ -1,0 +1,7 @@
+C:\Users\barış\source\repos\Çok boyutlu diziler\Çok boyutlu diziler\bin\Debug\Çok boyutlu diziler.exe.config
+C:\Users\barış\source\repos\Çok boyutlu diziler\Çok boyutlu diziler\bin\Debug\Çok boyutlu diziler.exe
+C:\Users\barış\source\repos\Çok boyutlu diziler\Çok boyutlu diziler\bin\Debug\Çok boyutlu diziler.pdb
+C:\Users\barış\source\repos\Çok boyutlu diziler\Çok boyutlu diziler\obj\Debug\Çok boyutlu diziler.csprojResolveAssemblyReference.cache
+C:\Users\barış\source\repos\Çok boyutlu diziler\Çok boyutlu diziler\obj\Debug\Çok boyutlu diziler.csproj.CoreCompileInputs.cache
+C:\Users\barış\source\repos\Çok boyutlu diziler\Çok boyutlu diziler\obj\Debug\Çok boyutlu diziler.exe
+C:\Users\barış\source\repos\Çok boyutlu diziler\Çok boyutlu diziler\obj\Debug\Çok boyutlu diziler.pdb

@@ -1,0 +1,7 @@
+C:\Users\barış\source\repos\Float\Float\bin\Debug\Float.exe.config
+C:\Users\barış\source\repos\Float\Float\bin\Debug\Float.exe
+C:\Users\barış\source\repos\Float\Float\bin\Debug\Float.pdb
+C:\Users\barış\source\repos\Float\Float\obj\Debug\Float.csprojResolveAssemblyReference.cache
+C:\Users\barış\source\repos\Float\Float\obj\Debug\Float.csproj.CoreCompileInputs.cache
+C:\Users\barış\source\repos\Float\Float\obj\Debug\Float.exe
+C:\Users\barış\source\repos\Float\Float\obj\Debug\Float.pdb

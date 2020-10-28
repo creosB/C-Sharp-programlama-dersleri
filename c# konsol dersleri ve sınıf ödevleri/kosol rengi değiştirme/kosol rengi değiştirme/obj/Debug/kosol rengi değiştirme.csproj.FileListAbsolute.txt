@@ -1,0 +1,6 @@
+C:\Users\barış\source\repos\kosol rengi değiştirme\kosol rengi değiştirme\bin\Debug\konsol rengi değiştirme.exe.config
+C:\Users\barış\source\repos\kosol rengi değiştirme\kosol rengi değiştirme\bin\Debug\konsol rengi değiştirme.exe
+C:\Users\barış\source\repos\kosol rengi değiştirme\kosol rengi değiştirme\bin\Debug\konsol rengi değiştirme.pdb
+C:\Users\barış\source\repos\kosol rengi değiştirme\kosol rengi değiştirme\obj\Debug\kosol rengi değiştirme.csproj.CoreCompileInputs.cache
+C:\Users\barış\source\repos\kosol rengi değiştirme\kosol rengi değiştirme\obj\Debug\konsol rengi değiştirme.exe
+C:\Users\barış\source\repos\kosol rengi değiştirme\kosol rengi değiştirme\obj\Debug\konsol rengi değiştirme.pdb

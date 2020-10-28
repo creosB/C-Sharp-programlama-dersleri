@@ -1,0 +1,7 @@
+C:\Users\barış\source\repos\Decimal\Decimal\bin\Debug\Decimal.exe.config
+C:\Users\barış\source\repos\Decimal\Decimal\bin\Debug\Decimal.exe
+C:\Users\barış\source\repos\Decimal\Decimal\bin\Debug\Decimal.pdb
+C:\Users\barış\source\repos\Decimal\Decimal\obj\Debug\Decimal.csprojResolveAssemblyReference.cache
+C:\Users\barış\source\repos\Decimal\Decimal\obj\Debug\Decimal.csproj.CoreCompileInputs.cache
+C:\Users\barış\source\repos\Decimal\Decimal\obj\Debug\Decimal.exe
+C:\Users\barış\source\repos\Decimal\Decimal\obj\Debug\Decimal.pdb

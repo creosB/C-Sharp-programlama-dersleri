@@ -1,0 +1,7 @@
+C:\Users\barış\source\repos\Random komutu\Random komutu\bin\Debug\Random komutu.exe.config
+C:\Users\barış\source\repos\Random komutu\Random komutu\bin\Debug\Random komutu.exe
+C:\Users\barış\source\repos\Random komutu\Random komutu\bin\Debug\Random komutu.pdb
+C:\Users\barış\source\repos\Random komutu\Random komutu\obj\Debug\Random komutu.csprojResolveAssemblyReference.cache
+C:\Users\barış\source\repos\Random komutu\Random komutu\obj\Debug\Random komutu.csproj.CoreCompileInputs.cache
+C:\Users\barış\source\repos\Random komutu\Random komutu\obj\Debug\Random komutu.exe
+C:\Users\barış\source\repos\Random komutu\Random komutu\obj\Debug\Random komutu.pdb

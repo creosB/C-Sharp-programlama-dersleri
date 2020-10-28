@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E4791039-F3C3-466B-89D0-C2B753224A84}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjeHazirlama</RootNamespace>
+    <AssemblyName>ProjeHazirlama</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\Desktop\Bunifu DLL\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dilsecim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dilsecim.Designer.cs">
+      <DependentUpon>dilsecim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enaziz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enaziz.Designer.cs">
+      <DependentUpon>enaziz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enbiyoloji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enbiyoloji.Designer.cs">
+      <DependentUpon>enbiyoloji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enferyal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enferyal.Designer.cs">
+      <DependentUpon>enferyal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enfizik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enfizik.Designer.cs">
+      <DependentUpon>enfizik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="engökhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="engökhan.Designer.cs">
+      <DependentUpon>engökhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enkimya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enkimya.Designer.cs">
+      <DependentUpon>enkimya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enmatematik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enmatematik.Designer.cs">
+      <DependentUpon>enmatematik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enmehmet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enmehmet.Designer.cs">
+      <DependentUpon>enmehmet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enselman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enselman.Designer.cs">
+      <DependentUpon>enselman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="traziz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="traziz.Designer.cs">
+      <DependentUpon>traziz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trbiyoloji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trbiyoloji.Designer.cs">
+      <DependentUpon>trbiyoloji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trfizik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trfizik.Designer.cs">
+      <DependentUpon>trfizik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trferyal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trferyal.Designer.cs">
+      <DependentUpon>trferyal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enyapanlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enyapanlar.Designer.cs">
+      <DependentUpon>enyapanlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trgökhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trgökhan.Designer.cs">
+      <DependentUpon>trgökhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trkimya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trkimya.Designer.cs">
+      <DependentUpon>trkimya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trmatematik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trmatematik.Designer.cs">
+      <DependentUpon>trmatematik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trmehmet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trmehmet.Designer.cs">
+      <DependentUpon>trmehmet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trmenu.Designer.cs">
+      <DependentUpon>trmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enmenu.Designer.cs">
+      <DependentUpon>enmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trbildiri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trbildiri.Designer.cs">
+      <DependentUpon>trbildiri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trnedir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trnedir.Designer.cs">
+      <DependentUpon>trnedir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tresen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tresen.Designer.cs">
+      <DependentUpon>tresen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enbildiri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enbildiri.Designer.cs">
+      <DependentUpon>enbildiri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ennedir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ennedir.Designer.cs">
+      <DependentUpon>ennedir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trselman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trselman.Designer.cs">
+      <DependentUpon>trselman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tryapanlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tryapanlar.Designer.cs">
+      <DependentUpon>tryapanlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="dilsecim.resx">
+      <DependentUpon>dilsecim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enaziz.resx">
+      <DependentUpon>enaziz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enbiyoloji.resx">
+      <DependentUpon>enbiyoloji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enferyal.resx">
+      <DependentUpon>enferyal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enfizik.resx">
+      <DependentUpon>enfizik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="engökhan.resx">
+      <DependentUpon>engökhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enkimya.resx">
+      <DependentUpon>enkimya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enmatematik.resx">
+      <DependentUpon>enmatematik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enmehmet.resx">
+      <DependentUpon>enmehmet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enselman.resx">
+      <DependentUpon>enselman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="traziz.resx">
+      <DependentUpon>traziz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trbiyoloji.resx">
+      <DependentUpon>trbiyoloji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trfizik.resx">
+      <DependentUpon>trfizik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trferyal.resx">
+      <DependentUpon>trferyal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enyapanlar.resx">
+      <DependentUpon>enyapanlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trgökhan.resx">
+      <DependentUpon>trgökhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trkimya.resx">
+      <DependentUpon>trkimya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trmatematik.resx">
+      <DependentUpon>trmatematik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trmehmet.resx">
+      <DependentUpon>trmehmet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trmenu.resx">
+      <DependentUpon>trmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enmenu.resx">
+      <DependentUpon>enmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trbildiri.resx">
+      <DependentUpon>trbildiri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trnedir.resx">
+      <DependentUpon>trnedir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tresen.resx">
+      <DependentUpon>tresen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enbildiri.resx">
+      <DependentUpon>enbildiri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ennedir.resx">
+      <DependentUpon>ennedir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trselman.resx">
+      <DependentUpon>trselman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tryapanlar.resx">
+      <DependentUpon>tryapanlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

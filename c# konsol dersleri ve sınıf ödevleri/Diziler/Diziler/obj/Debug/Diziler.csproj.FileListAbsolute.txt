@@ -1,0 +1,7 @@
+C:\Users\barış\source\repos\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\barış\source\repos\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\barış\source\repos\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\barış\source\repos\Diziler\Diziler\obj\Debug\Diziler.csprojResolveAssemblyReference.cache
+C:\Users\barış\source\repos\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\barış\source\repos\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\barış\source\repos\Diziler\Diziler\obj\Debug\Diziler.pdb

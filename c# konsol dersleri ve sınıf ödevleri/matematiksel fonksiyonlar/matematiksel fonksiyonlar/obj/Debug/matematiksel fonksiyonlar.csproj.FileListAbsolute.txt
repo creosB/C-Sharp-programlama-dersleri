@@ -1,0 +1,6 @@
+C:\Users\barış\source\repos\matematiksel fonksiyonlar\matematiksel fonksiyonlar\bin\Debug\matematiksel fonksiyonlar.exe.config
+C:\Users\barış\source\repos\matematiksel fonksiyonlar\matematiksel fonksiyonlar\bin\Debug\matematiksel fonksiyonlar.exe
+C:\Users\barış\source\repos\matematiksel fonksiyonlar\matematiksel fonksiyonlar\bin\Debug\matematiksel fonksiyonlar.pdb
+C:\Users\barış\source\repos\matematiksel fonksiyonlar\matematiksel fonksiyonlar\obj\Debug\matematiksel fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\barış\source\repos\matematiksel fonksiyonlar\matematiksel fonksiyonlar\obj\Debug\matematiksel fonksiyonlar.exe
+C:\Users\barış\source\repos\matematiksel fonksiyonlar\matematiksel fonksiyonlar\obj\Debug\matematiksel fonksiyonlar.pdb

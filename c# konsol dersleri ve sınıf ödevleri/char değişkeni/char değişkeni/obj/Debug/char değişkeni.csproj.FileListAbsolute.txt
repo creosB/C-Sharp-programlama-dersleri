@@ -1,0 +1,7 @@
+C:\Users\barış\source\repos\char değişkeni\char değişkeni\bin\Debug\char değişkeni.exe.config
+C:\Users\barış\source\repos\char değişkeni\char değişkeni\bin\Debug\char değişkeni.exe
+C:\Users\barış\source\repos\char değişkeni\char değişkeni\bin\Debug\char değişkeni.pdb
+C:\Users\barış\source\repos\char değişkeni\char değişkeni\obj\Debug\char değişkeni.csprojResolveAssemblyReference.cache
+C:\Users\barış\source\repos\char değişkeni\char değişkeni\obj\Debug\char değişkeni.csproj.CoreCompileInputs.cache
+C:\Users\barış\source\repos\char değişkeni\char değişkeni\obj\Debug\char değişkeni.exe
+C:\Users\barış\source\repos\char değişkeni\char değişkeni\obj\Debug\char değişkeni.pdb

@@ -1,0 +1,7 @@
+C:\Users\barış\source\repos\bool değişkeni\bool değişkeni\bin\Debug\bool değişkeni.exe.config
+C:\Users\barış\source\repos\bool değişkeni\bool değişkeni\bin\Debug\bool değişkeni.exe
+C:\Users\barış\source\repos\bool değişkeni\bool değişkeni\bin\Debug\bool değişkeni.pdb
+C:\Users\barış\source\repos\bool değişkeni\bool değişkeni\obj\Debug\bool değişkeni.csprojResolveAssemblyReference.cache
+C:\Users\barış\source\repos\bool değişkeni\bool değişkeni\obj\Debug\bool değişkeni.csproj.CoreCompileInputs.cache
+C:\Users\barış\source\repos\bool değişkeni\bool değişkeni\obj\Debug\bool değişkeni.exe
+C:\Users\barış\source\repos\bool değişkeni\bool değişkeni\obj\Debug\bool değişkeni.pdb

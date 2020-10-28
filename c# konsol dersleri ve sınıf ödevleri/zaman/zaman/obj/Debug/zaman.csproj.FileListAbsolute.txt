@@ -1,0 +1,7 @@
+C:\Users\barış\source\repos\zaman\zaman\bin\Debug\zaman.exe.config
+C:\Users\barış\source\repos\zaman\zaman\bin\Debug\zaman.exe
+C:\Users\barış\source\repos\zaman\zaman\bin\Debug\zaman.pdb
+C:\Users\barış\source\repos\zaman\zaman\obj\Debug\zaman.csprojResolveAssemblyReference.cache
+C:\Users\barış\source\repos\zaman\zaman\obj\Debug\zaman.csproj.CoreCompileInputs.cache
+C:\Users\barış\source\repos\zaman\zaman\obj\Debug\zaman.exe
+C:\Users\barış\source\repos\zaman\zaman\obj\Debug\zaman.pdb

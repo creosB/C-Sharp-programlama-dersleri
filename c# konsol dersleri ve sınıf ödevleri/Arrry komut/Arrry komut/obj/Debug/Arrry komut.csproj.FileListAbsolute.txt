@@ -1,0 +1,6 @@
+C:\Users\barış\source\repos\Arrry komut\Arrry komut\bin\Debug\Arrry komut.exe.config
+C:\Users\barış\source\repos\Arrry komut\Arrry komut\bin\Debug\Arrry komut.exe
+C:\Users\barış\source\repos\Arrry komut\Arrry komut\bin\Debug\Arrry komut.pdb
+C:\Users\barış\source\repos\Arrry komut\Arrry komut\obj\Debug\Arrry komut.csproj.CoreCompileInputs.cache
+C:\Users\barış\source\repos\Arrry komut\Arrry komut\obj\Debug\Arrry komut.exe
+C:\Users\barış\source\repos\Arrry komut\Arrry komut\obj\Debug\Arrry komut.pdb
